@@ -1,0 +1,90 @@
+            {
+    "success": true,
+    "city": "adana",
+    "result": [
+        {
+            "date": "09.11.2021",
+            "day": "Salı",
+            "icon": "https://image.flaticon.com/icons/svg/143/143769.svg",
+            "description": "açık",
+            "status": "Clear",
+            "degree": "26.68",
+            "min": "17.08",
+            "max": "28.01",
+            "night": "19.4",
+            "humidity": "23"
+        },
+        {
+            "date": "10.11.2021",
+            "day": "Çarşamba",
+            "icon": "https://image.flaticon.com/icons/svg/143/143790.svg",
+            "description": "parçalı bulutlu",
+            "status": "Clouds",
+            "degree": "20.6",
+            "min": "13.35",
+            "max": "21.57",
+            "night": "13.35",
+            "humidity": "31"
+        },
+        {
+            "date": "11.11.2021",
+            "day": "Perşembe",
+            "icon": "https://image.flaticon.com/icons/svg/143/143769.svg",
+            "description": "açık",
+            "status": "Clear",
+            "degree": "18.25",
+            "min": "10.05",
+            "max": "20.72",
+            "night": "13.04",
+            "humidity": "17"
+        },
+        {
+            "date": "12.11.2021",
+            "day": "Cuma",
+            "icon": "https://image.flaticon.com/icons/svg/143/143769.svg",
+            "description": "açık",
+            "status": "Clear",
+            "degree": "21.96",
+            "min": "11.01",
+            "max": "23.8",
+            "night": "17.25",
+            "humidity": "19"
+        },
+        {
+            "date": "13.11.2021",
+            "day": "Cumartesi",
+            "icon": "https://image.flaticon.com/icons/svg/143/143769.svg",
+            "description": "açık",
+            "status": "Clear",
+            "degree": "23.5",
+            "min": "14.11",
+            "max": "24.74",
+            "night": "18.19",
+            "humidity": "19"
+        },
+        {
+            "date": "14.11.2021",
+            "day": "Pazar",
+            "icon": "https://image.flaticon.com/icons/svg/143/143769.svg",
+            "description": "açık",
+            "status": "Clear",
+            "degree": "23.2",
+            "min": "14.28",
+            "max": "24.45",
+            "night": "18.2",
+            "humidity": "19"
+        },
+        {
+            "date": "15.11.2021",
+            "day": "Pazartesi",
+            "icon": "https://image.flaticon.com/icons/svg/143/143790.svg",
+            "description": "kapalı",
+            "status": "Clouds",
+            "degree": "22.29",
+            "min": "15.29",
+            "max": "23.1",
+            "night": "18.89",
+            "humidity": "23"
+        }
+    ]
+}
